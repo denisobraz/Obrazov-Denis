@@ -5,4 +5,4 @@ s = a + b
 print(f"Результат {s}") # равен 6
 
 
-print('hello world')  # перевод
+print('hello world')  # перевод слов
