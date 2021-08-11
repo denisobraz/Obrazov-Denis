@@ -5,4 +5,4 @@ s = a + b
 print(f"Результат {s}")
 
 
-print('hello world')
+print('hello world')  # перевод
